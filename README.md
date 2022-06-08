@@ -1,4 +1,4 @@
-#Estudo E-Commerce: Analise Exploratoria; Engenharia de Atributos; Pré-Processamento de Dados
+# Estudo E-Commerce: Analise Exploratoria; Engenharia de Atributos; Pré-Processamento de Dados
 
 Uma empresa internacional de comércio eletrônico (E-commerce) que vende produtos eletrônicos deseja descobrir informações importantes de seu banco de dados de clientes. 
 Os produtos ficam armazenados em um armazém na sede da empresa. Após concluir a compra no web site da empresa, o cliente recebe o produto em casa, em qualquer parte do mundo. Os produtos são enviados de Navio, Avião ou Caminhão, dependendo da região de entrega. 
