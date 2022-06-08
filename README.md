@@ -9,13 +9,16 @@ Trabalharemos com dados fictícios que representam dados reais de uma empresa de
 Vamos dividir em 3 partes:
 
 1)	Análise Exploratória
+
 Iremos analisar os detalhes técnicos com análise estatística, visualização de dados, interpretação de gráficos e tabelas, análise univariada e bivariada e relatório de conclusão. 
 Depois foco é na Análise Exploratória para responder perguntas de negócio, onde os dados são manipulados através de Data Wrangling com Pandas e analisados por diferentes perspectivas. Customização de gráficos é outro tema abordado durante as aulas.
 
 2)	Engenharia de Atributos
+	
 O objetivo é analisar os dados por diferentes perspectivas e criar novas variáveis que ajudem a compreender o comportamento da variável alvo, em nosso caso se um produto será enviado com atraso ou não. Ou seja, criar novas variáveis (novos recursos) que nos ajudem a compreender os dados de forma mais simplificada e por diferentes perspectivas.
 
 3)	Pré-Processamento de Dados
+	
 Como ML apenas usa a matemática, ou seja, só podemos ter números em nossa base de dados, iremos aqui, aplicar técnicas de pré-processamento de variáveis categóricas (Label Enconding e One-Hot Enconding) e Feature Scaling de variáveis numéricas (Normalização e Padronização).
 O objetivo é pré-processar os dados para uma etapa de modelagem preditiva.
 
